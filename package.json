@@ -1,7 +1,7 @@
 {
   "name": "alex-website",
   "version": "0.1.0",
-  "homepage": "http://alexhan1237.github.io",
+  "homepage": "https://alexhan1237.github.io/alex_website/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",

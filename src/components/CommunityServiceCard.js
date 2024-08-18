@@ -1,0 +1,37 @@
+import * as React from 'react';
+import Card from '@mui/material/Card';
+import CardActions from '@mui/material/CardActions';
+import CardContent from '@mui/material/CardContent';
+import CardMedia from '@mui/material/CardMedia';
+import Button from '@mui/material/Button';
+import Typography from '@mui/material/Typography';
+import Box from '@mui/material/Box';
+
+export default function CommunityCard() {
+  return (
+    <Card sx={{ minWidth: 300, maxWidth: 355 }}>
+      <CardMedia
+        sx={{ height: 200 }}
+        image="/img/alex_volunteer.png"
+        title="Community Service"
+      />
+      <CardContent>
+        <Typography gutterBottom variant="h5" component="div">
+          Community Service
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+        <Box sx={{ fontStyle: 'italic' }}>
+        “We make a living by what we get, but we make a life by what we give.” -Winston Churchill
+        </Box>
+        I felt a deep sense of gratitude for the community and friends I grew up with. I dedicated much of 
+        my summers to volunteering with Acton’s community education Summer Day programs. Being able to give 
+        back was incredibly fulfilling.
+        </Typography>
+      </CardContent>
+      <CardActions>
+        
+        <Button size="small" href="/resources/Alexander Han CV.pdf" target="_blank">Learn More</Button>
+      </CardActions>
+    </Card>
+  );
+}

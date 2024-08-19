@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Card, CardActions, CardContent, CardMedia, Button, Typography, Link } from '@mui/material';
+import { Card, CardActions, CardContent, CardMedia, Button, Typography } from '@mui/material';
 
 export default function MeCard() {
   return (
@@ -15,8 +15,11 @@ export default function MeCard() {
         </Typography>
         <Typography variant="body2" color="text.secondary">
         I grew up in Acton, Massachusetts, a town of 65,000 renowned for its top-notch 
-        schools. As a high school senior, I’m passionate about rowing, student research, 
-        robotics, and community service. I’m working diligently to prepare for college.
+        schools. As a senior of Acton-Boxborough Regional High School, I’m passionate about rowing, student research, 
+        robotics, and community service. I’m working diligently to prepare for college.<p/>
+        I have a wonderful family: my dad and older brother are software engineers, and my mom is a CPA. After playing hockey 
+        and soccer for many years, I transitioned to varsity rowing in high school due to injuries. I also work part-time 
+        as a soccer referee.
         </Typography>
       </CardContent>
       <CardActions>

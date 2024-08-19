@@ -22,7 +22,12 @@ export default function RoboticsCard() {
         Are you fascinated by robots performing somersaults and backflips? I certainly am! 
         I'm proud to be a member of First Tech Challenge (FTC) team #16091. Along with 14 friends, 
         we design, build, assemble, code, and test robots for FTC competitions. 
-        I'm thrilled to share that our team won the 2024 FTC New England Invitational Championship.
+        I'm thrilled to share that our team won the 2024 FTC New England Invitational Championship.<p/>
+
+        Through FTC, we gain hands-on experience in engineering, coding, and problem-solving while learning 
+        valuable life skills like collaboration and critical thinking. To assist newcomers, I created a website - 
+        <Button size="small" href="https://www.ftctraininghub.com" target="_blank">www.ftctraininghub.com</Button> to share the fundamentals 
+        we've learned, based on my notes. 
 
         </Typography>
       </CardContent>

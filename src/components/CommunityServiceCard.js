@@ -21,7 +21,7 @@ export default function CommunityCard() {
         </Typography>
         <Typography variant="body2" color="text.secondary">
         <Box sx={{ fontStyle: 'italic' }}>
-        “We make a living by what we get, but we make a life by what we give.” -Winston Churchill
+        “We make a living by what we get, but we make a life by what we give.” -Winston Churchill <p/>
         </Box>
         I felt a deep sense of gratitude for the community and friends I grew up with. I dedicated much of 
         my summers to volunteering with Acton’s community education Summer Day programs. Being able to give 

@@ -20,8 +20,9 @@ export default function CollegeCard() {
         </Typography>
         <Typography variant="body2" color="text.secondary">
         Honestly, I have little to no clue about what I will study in college... but I knew it is the best path for my future. 
-        I was looking at a map of the U.S. and thinking hmmm... New York sounds about right! 
-        or perhaps California? Ok, ok, I still have to prepare for my SAT test now.
+        I was looking at a map of the U.S. and thinking hmmm... New York sounds about right! or perhaps California? I was thinking 
+        about my future job... Software Engineer pays well! but CPA offers better job security? Ok, ok, I still have to prepare for 
+        my SAT test now.
         </Typography>
       </CardContent>
       <CardActions>

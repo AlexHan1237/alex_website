@@ -14,7 +14,7 @@ export default function MeCard() {
           Myself
         </Typography>
         <Typography variant="body2" color="text.secondary">
-        I grew up in Acton, Massachusetts, a town of 65,000 renowned for its top-notch 
+        I grew up in Acton, Massachusetts, a town of 26,000 renowned for its top-notch 
         schools. As a senior of Acton-Boxborough Regional High School, I’m passionate about rowing, student research, 
         robotics, and community service. I’m working diligently to prepare for college.<p/>
         I have a wonderful family: my dad and older brother are software engineers, and my mom is a CPA. After playing hockey 

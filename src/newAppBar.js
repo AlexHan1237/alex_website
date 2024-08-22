@@ -13,13 +13,24 @@ function MyAppBar() {
     <AppBar position="static">
       <Container maxWidth="xl">
         <Toolbar disableGutters>
-          <a href="home" target="_blank" >
-            <Avatar sx={{ height: '140px', width: '140px', display: { xs: 'none', md: 'flex' }, mr: 1, margin: 1 }} alt="Alexander Han" src="/img/alex.jpg" href="home" />
+          {/* <a href="home" target="_blank" >
+            <Avatar sx={{ height: '140px', width: '140px', display: { xs: 'none', md: 'flex' }, mr: 1, margin: 1 }} alt="Alexander Han" src="/img/Alex.jpg" href="home" />
           </a>
           
           <Box  
             component="a"
             href="home"
+            sx={{
+              margin: 6,
+              display: { xs: 'none', md: 'flex' },
+              color: 'inherit',
+              textDecoration: 'none',
+            }}
+          > */}
+
+          <Avatar sx={{ height: '140px', width: '140px', display: { xs: 'none', md: 'flex' }, mr: 1, margin: 1 }} alt="Alexander Han" src="/img/Alex.jpg" />
+                    
+          <Box 
             sx={{
               margin: 6,
               display: { xs: 'none', md: 'flex' },

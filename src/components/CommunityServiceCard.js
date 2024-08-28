@@ -24,8 +24,8 @@ export default function CommunityCard() {
         “We make a living by what we get, but we make a life by what we give.” -Winston Churchill <p/>
         </Box>
         I felt a deep sense of gratitude for the community and friends I grew up with. I dedicated much of 
-        my summers to volunteering with Acton’s community education Summer Day programs. Being able to give 
-        back was incredibly fulfilling.
+        my summers to volunteering with the Summer Day Programs that I used to attend when I was a kid. Being able to give 
+        back was incredibly fulfilling and enjoyable.
         </Typography>
       </CardContent>
       <CardActions>

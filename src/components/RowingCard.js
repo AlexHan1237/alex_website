@@ -24,7 +24,7 @@ export default function RowingCard() {
         <Typography variant="body2" color="text.secondary">
         From the age of 6, hockey and soccer have been central to my life. After sustaining two major injuries 
         while playing junior varsity hockey, I had to transition to a non-contact sport. Fortunately, I discovered 
-        rowing and have thoroughly loved it. Started as a novice, I'm now a senior member of the varsity 
+        rowing and have thoroughly enjoyed it. I Started as a novice but am now a senior member of the varsity 
         rowing team.
         </Typography>
       </CardContent>

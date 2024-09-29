@@ -14,7 +14,7 @@ function App() {
       <br/>
       <Stack direction="row" justifyContent="center" spacing={2}>
         <Button variant="contained" href="/resources/Alexander Han CV.pdf" target="_blank" color="error" sx={{ borderRadius: 28 }} startIcon={<PersonPinCircleOutlinedIcon />}>Resume</Button>
-        <Button variant="contained" href="/resources/paper.pdf" target="_blank" color="error" sx={{ borderRadius: 28 }} startIcon={<ArticleOutlinedIcon />}>Paper</Button>
+        <Button variant="contained" href="/resources/paper_v4.pdf" target="_blank" color="error" sx={{ borderRadius: 28 }} startIcon={<ArticleOutlinedIcon />}>Paper</Button>
         <Button variant="contained" href="https://www.ftctraininghub.com" target="_blank" color="error" sx={{ borderRadius: 28 }} startIcon={<SupervisorAccountOutlinedIcon />}>TrainingHub</Button>
       </Stack>
       <div className={`app ${''}`}>

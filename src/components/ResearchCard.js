@@ -16,7 +16,7 @@ export default function ResearchCard() {
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Research on AI
+          Research on AI-Aided Medical Diagnostics
         </Typography>
         <Typography variant="body2" color="text.secondary">
         Inspired by stories from family and friends who successfully used ChatGPT to diagnose illnesses that 

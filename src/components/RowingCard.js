@@ -29,7 +29,7 @@ export default function RowingCard() {
         </Typography>
       </CardContent>
       <CardActions>        
-        <Button size="small" href="/resources/Alexander Han CV.pdf" target="_blank">Learn More</Button>
+        <Button size="small" href="/resources/Alexander_Han_CV2.pdf" target="_blank">Learn More</Button>
       </CardActions>
     </Card>
   );
